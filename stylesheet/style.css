@@ -58,7 +58,6 @@ body {
 /* crousel section */
 .carousel-inner img {
   height: 800px;
-  overflow: hidden;
 }
 .carousel-inner h3 {
   color: tomato !important;
