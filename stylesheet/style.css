@@ -39,7 +39,7 @@ body {
   font-weight: 600;
 }
 .navbar-nav li a:hover {
-  background-color: tomato;
+  background-color: gold;
   border-radius: 11px;
   color: white !important;
 }
