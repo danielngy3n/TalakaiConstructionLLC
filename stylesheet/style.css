@@ -57,9 +57,8 @@ body {
 
 /* crousel section */
 .carousel-inner img {
-  height: 500px;
+  height: 550px;
   visibility: inherit;
-  opacity: 0.8;
   overflow: hidden;
 }
 .carousel-inner h3 {
